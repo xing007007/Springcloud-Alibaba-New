@@ -84,7 +84,7 @@
             <version>1.10.0</version>
         </dependency>
 
-        <!-- WordNet (用于同义词替换) -->
+        <!-- WordNet (用于同义词替换)222 -->
         <dependency>
             <groupId>net.sf.extjwnl</groupId>
             <artifactId>extjwnl</artifactId>

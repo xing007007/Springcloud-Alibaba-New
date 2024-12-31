@@ -108,6 +108,7 @@ public class OrderVideoController {
             map.put("msg","没有找到任何方法");
         }
         System.out.println("new main");
+        System.out.println("new main main");
         return map;
     }
 }

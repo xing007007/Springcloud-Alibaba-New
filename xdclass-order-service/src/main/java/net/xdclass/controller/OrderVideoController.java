@@ -107,6 +107,7 @@ public class OrderVideoController {
         }else{
             map.put("msg","没有找到任何方法");
         }
+        System.out.println("v1");
         return map;
     }
 }
